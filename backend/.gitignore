@@ -1,0 +1,25 @@
+
+# Python
+__pycache__/
+*.py[cod]
+*.pyc
+
+# Virtual Environment
+venv/
+
+# Environment Variables
+.env
+
+# Node modules
+frontend/node_modules/
+
+# Build output
+dist/
+build/
+
+# Logs
+*.log
+
+# OS/Editor specific
+.DS_Store
+.vscode/
